@@ -58,7 +58,7 @@ If software development were an Olympic sport, I’d have a podium reserved — 
 
 * ☕ Peak coffee intake: 3 cups/minute (tracked since 2015).
 * 📅 GitHub commit streak: 482 days straight — only 12 recorded sleep breaks.
-* 🦄 “Most Likely to Replace Bugs with Unicorns” Award, Dev Guild 2022.
+* 🦄 “Most Likely to Replace Bugs with Headcrabs” Award, Dev Guild 2022.
 * 🎮 High score in “Code & Conquer” contest: 9,999 points.
 
 ---
