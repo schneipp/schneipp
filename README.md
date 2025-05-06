@@ -48,8 +48,9 @@ If software development were an Olympic sport, I’d have a podium reserved — 
 ## Outstanding Projects
 
 * **✈️ AirTrafficMaster 3000**: Fully autonomous runway-control system powered by neural nets.
-* **🔐 VaultOfSecrets**: Encryption library storing passwords more securely than Fort Knox.
-* **👾 RetroRaid**: Browser-based emulator for classic arcade hits, all in WebAssembly.
+* * **🔐✈ AutoPligg 10000**: Fully autonomous link distribution system that led to the introduction of AI as it rendered the old internet obsolete and unusable. (Nobel Price pending)
+* **🔐 VaultOfSecrets**: Encryption library storing passwords more securely than Fort Knox. Actually it's just a md5() function
+* **👾 RetroRaid**: Browser-based emulator for classic arcade hits, all in WebAssembly. Forked all on my own.
 
 ---
 
@@ -64,8 +65,7 @@ If software development were an Olympic sport, I’d have a podium reserved — 
 
 ## Education
 
-**MSc in Computer Science** • ETH Zurich | 2009 – 2013
-
+**MSc in Computer Science** • ETH Zureich | 2009 – 2003
 * Focus: “Parallelizing Coffee Machine Controls”
 
 ---
