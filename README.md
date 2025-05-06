@@ -1,6 +1,14 @@
+<a href="">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=schneipp" />
+</a>
+<a href="">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=schneipp&layout=compact&langs_count=8&card_width=320" />
+</a>
+
 ## About Me
 
-Hello, I’m **RAMON “Code Wizard” OTT **, the undisputed master of bits and bytes at **NEWS-LOG AG**. If software development were an Olympic sport, I’d have a podium reserved — and I’d still find time to build three airport systems before breakfast. My trusty sidekicks: a golden-edition Kinesis keyboard and NeoVim enhanced with my custom “spell-casting” plugin. As a proud “socially integrated nerd,” I seamlessly juggle epic coding sprints and networking missions at every dev conference. 🚀
+Hello, I’m **Ramon aka “Code Wizard” **, the undisputed master of bits and bytes at **JULITH**. 
+If software development were an Olympic sport, I’d have a podium reserved — and I’d still find time to build three airport systems before breakfast. My trusty sidekicks: a golden-edition Kinesis keyboard and NeoVim enhanced with my custom “spell-casting” plugin. As a proud “socially integrated nerd,” I seamlessly juggle epic coding sprints and networking missions at every dev conference. 🚀
 
 ---
 
@@ -60,9 +68,11 @@ Hello, I’m **RAMON “Code Wizard” OTT **, the undisputed master of bits and
 
 ## Contact
 
-* **GitHub**: [github.com/ramon-the-wizard](https://github.com/ramon-the-wizard)
-* **Twitter**: [@ramoncodes](https://twitter.com/ramoncodes)
-* **LinkedIn**: [ramon-schneider](https://www.linkedin.com/in/ramon-schneider)
-* **Email**: [epicramon@news-log.ch](mailto:epicramon@news-log.ch)
+* **GitHub**: [github.com/schneipp](https://github.com/schneipp)
+* **YELLINGMarket**: [@ramsleprince](https://twitter.com/ramsleprince)
+* **LinkedIn**: [ramon ott]([https://www.linkedin.com/in/ramon-schneider](https://www.linkedin.com/in/ramon-ott-634237b1/))
 
-> *“Code — because punching people is frowned upon.”* 💥
+> *“Code — because hitting people with a keyboard is fucking awesome.”* 💥
+
+
+this resume might by slightly exaggerated btw.
