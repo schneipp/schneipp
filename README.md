@@ -25,7 +25,7 @@ If software development were an Olympic sport, I’d have a podium reserved — 
 * 🔧 Introduced the “Replace All Bugs With Unicorns” strategy: 98% fewer bugs, 150% more unicorns.
 * 📈 Hosted weekly “Bug Brawls” — team members wager who can kill the most bugs in 60 minutes.
 
-**Senior Software Engineer** • AeroSolutions GmbH | Sep 2013 – Dec 2017
+**Senior Software Engineer** • ImakeStuffUpOutOfThinAir International | Sep 2013 – Dec 2017
 
 * ✈️ Built a modular boarding-management system now hailed as the industry’s “secret weapon.”
 * 💻 Survived a marathon Node.js, Go, and Rust session — produced a web app that loads faster than my moka pot.
