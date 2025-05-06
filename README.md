@@ -7,7 +7,7 @@
 
 ## About Me
 
-Hello, I’m **Ramon aka “Code Wizard” **, the undisputed master of bits and bytes at **JULITH**. 
+Hello, I’m **Ramon aka “Code Wizard”**, the undisputed master of bits and bytes at **JULITH**. 
 If software development were an Olympic sport, I’d have a podium reserved — and I’d still find time to build three airport systems before breakfast. My trusty sidekicks: a golden-edition Kinesis keyboard and NeoVim enhanced with my custom “spell-casting” plugin. As a proud “socially integrated nerd,” I seamlessly juggle epic coding sprints and networking missions at every dev conference. 🚀
 
 ---
