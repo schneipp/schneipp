@@ -14,7 +14,11 @@ If software development were an Olympic sport, I’d have a podium reserved — 
 
 ## Experience
 
-**Head of Development** • NEWS-LOG AG | Jan 2018 – Present
+**Head of Headdevelopment** • JULITH GmbH | May 2024 - present
+* 🤖 Rolled out an AI-powered virtual Airport system for virtual customers of over 699 virtual countries
+
+
+**Head of Development** • NEWS-LOG AG | Jan 2018 – 2024
 
 * 🛫 Refueled, launched, and landed software services across 250+ airports worldwide.
 * 🤖 Rolled out an AI-powered tarmac optimizer, boosting ground-traffic efficiency by 37.98% (with coffee breaks included).
