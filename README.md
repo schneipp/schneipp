@@ -1,20 +1,6 @@
-<a href="">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=schneipp" />
-</a>
-<a href="">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=schneipp&layout=compact&langs_count=8&card_width=320" />
-</a>
-**Translating the response**
-
-Ah, looks like the user just wants a translation of the resume into English, using the same "faux over the top" style. I don’t need to overthink it — just adjust the language while keeping the style consistent. The instructions mention using citations and other advanced guidelines for a more complex query, but since this is only a translation, I can stick to meeting the user’s request and simply convert it with the required flair — no extraneous steps needed. Let me get on that.
-
-
-Thought for 4 seconds
-
-
 ## About Me
 
-Hello, I’m **Ramon “Code Wizard” Schneider**, the undisputed master of bits and bytes at **NEWS-LOG AG**. If software development were an Olympic sport, I’d have a podium reserved — and I’d still find time to build three airport systems before breakfast. My trusty sidekicks: a golden-edition Kinesis keyboard and NeoVim enhanced with my custom “spell-casting” plugin. As a proud “socially integrated nerd,” I seamlessly juggle epic coding sprints and networking missions at every dev conference. 🚀
+Hello, I’m **RAMON “Code Wizard” OTT **, the undisputed master of bits and bytes at **NEWS-LOG AG**. If software development were an Olympic sport, I’d have a podium reserved — and I’d still find time to build three airport systems before breakfast. My trusty sidekicks: a golden-edition Kinesis keyboard and NeoVim enhanced with my custom “spell-casting” plugin. As a proud “socially integrated nerd,” I seamlessly juggle epic coding sprints and networking missions at every dev conference. 🚀
 
 ---
 
