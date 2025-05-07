@@ -28,8 +28,8 @@ If software development were an Olympic sport, I’d have a podium reserved — 
 **Senior Software Engineer** • ImakeStuffUpOutOfThinAir International | Sep 2013 – Dec 2017
 
 * ✈️ Built a modular boarding-management system now hailed as the industry’s “secret weapon.”
-* 💻 Survived a marathon Node.js, Go, and Rust session — produced a web app that loads faster than my moka pot.
-* 🎤 Delivered a keynote at “Cloud & Cockpit” 2016: “Why Pilots Should Code, Too.”
+* 💻 Survived a marathon Javascript, Go, and Rust session — produced a web app that loads faster than saying the word "adolfin".
+* 🎤 Delivered a praised keynote at “Nodejs Conference” 2016: “Why Nodejs devs should jump through a window and get run over by a truck”
 
 ---
 
@@ -37,20 +37,19 @@ If software development were an Olympic sport, I’d have a podium reserved — 
 
 | Category           | Tools & Technologies                                    | Superpower                         |
 | ------------------ | ------------------------------------------------------- | ---------------------------------- |
-| **Editor & Shell** | NeoVim + SpaceVim, Zsh with oh-my-zsh, tmux as co-pilot | Multidimensional window management |
-| **Languages**      | Rust, Go, Python, JavaScript (ESNext), C++              | Self-optimizing code               |
-| **CI/CD & Cloud**  | GitHub Actions, Docker-Rocket, Kubernetes at warp speed | Automation on hyperdrive           |
-| **Databases**      | PostgreSQL, Redis, CockroachDB                          | Transactional ninja prowess        |
-| **Open Source**    | Maintainer of 7 repos, contributor to 12 projects       | Harnessing collective genius       |
+| **Editor & Shell** | NeoVim + LazyVim, emacs, Zsh with oh-my-zsh, tmux, mutt | Multidimensional window management |
+| **Languages**      | Rust, Go, Python, Angular, C++, HolyC              | compiles on the 42th try               |
+| **CI/CD & Cloud**  | GitHub Actions, Docker, (one does not simply)Kubernetes | Automation on hyperdrive           |
+| **Databases**      | PostgreSQL, Redis, CockroachDB, MySQL, MSSQL                          | Transactional ninja prowess        |
+| **Open Source**    | Maintainer of many unmantained repos, contributor to projects by complaining in issues       | Harnessing collective genius       |
 
 ---
 
 ## Outstanding Projects
 
-* **✈️ AirTrafficMaster 3000**: Fully autonomous runway-control system powered by neural nets.
 * * **🔐✈ AutoPligg 10000**: Fully autonomous link distribution system that led to the introduction of AI as it rendered the old internet obsolete and unusable. (Nobel Price pending)
 * **🔐 VaultOfSecrets**: Encryption library storing passwords more securely than Fort Knox. Actually it's just a md5() function
-* **👾 RetroRaid**: Browser-based emulator for classic arcade hits, all in WebAssembly. Forked all on my own.
+* **👾 5 Fedora Major Upgrades**: Without breaking the OS!
 
 ---
 
@@ -66,7 +65,7 @@ If software development were an Olympic sport, I’d have a podium reserved — 
 ## Education
 
 **MSc in Computer Science** • ETH Zureich | 2009 – 2003
-* Focus: “Parallelizing Coffee Machine Controls”
+* Focus: “Parallelizing Coffee Machine Controls for maximum intake”
 
 ---
 
