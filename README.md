@@ -1,8 +1,4 @@
 
-<a href="">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=schneipp&layout=compact&langs_count=8&card_width=320" />
-</a>
-
 ## About Me
 
 Hello, I’m **Rams aka “Code Wizard”**, the undisputed master of bits and bytes at **JULITH**. 
@@ -77,6 +73,11 @@ Ok actually no MSc, i' m just an idiot that does code for a bit (25 years)
 * **LinkedIn**: [ramon ott]([https://www.linkedin.com/in/ramon-schneider](https://www.linkedin.com/in/ramon-ott-634237b1/))
 
 > *“Code — because hitting people with a keyboard is fucking awesome.”* 💥
+
+
+<a href="">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=schneipp&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 
 disclaimer: if you are a recruiter and wonder if this  is all true, ask a a SE to make sense of all this. if he/*/she understands, contact me :)
