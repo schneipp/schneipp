@@ -5,58 +5,59 @@
 
 ## About Me
 
-Hello, I’m **Ramon aka “Code Wizard”**, the undisputed master of bits and bytes at **JULITH**. 
-If software development were an Olympic sport, I’d have a podium reserved — and I’d still find time to build three airport systems before breakfast. My trusty sidekicks: a golden-edition Kinesis keyboard and NeoVim enhanced with my custom plugin, because everything else would be a skill issue. As a proud “socially integrated nerd,” I seamlessly juggle epic coding challenges wherever someone is in despair. 🚀
+Hello, I’m **Rams aka “Code Wizard”**, the undisputed master of bits and bytes at **JULITH**. 
+If software development were an Olympic sport, I’d have a podium reserved — and I’d still find time to build three airport systems before breakfast. My trusty sidekicks: a golden-edition Kinesis keyboard and NeoVim enhanced with my custom plugin, because everything else would be a skill issue. As a proud “socially integrated nerd,” I seamlessly juggle epic coding challenges wherever someone is in despair. 
 
 ---
 
 ## Experience
 
 **Head of Headdevelopment** • JULITH GmbH | May 2024 - present
-* 🤖 Rolled out an AI-powered virtual Airport system for virtual customers of over 699 virtual countries
-
+* Rolled out an AI-powered virtual Airport system for Virtual Customers of over 699 imaginary countries
+* Wrote several actor based hyper scalable Webapps with Rust that were used by 4 users AT THE SAME TIME!
 
 **Head of Development** • NEWS-LOG AG | Jan 2018 – 2024
 
-* 🛫 Refueled, launched, and landed software services across 250+ airports worldwide.
-* 🤖 Rolled out an AI-powered tarmac optimizer, boosting ground-traffic efficiency by 37.98% (with coffee breaks included).
-* 🔧 Introduced the “Replace All Bugs With Unicorns” strategy: 98% fewer bugs, 150% more unicorns.
-* 📈 Hosted weekly “Bug Brawls” — team members wager who can kill the most bugs in 60 minutes.
+* Refueled, launched, and landed software services across many airports.
+* Wrote several Devops Pipelines by just starring at the screen.
 
-**Senior Software Engineer** • ImakeStuffUpOutOfThinAir International | Sep 2013 – Dec 2017
+**Senior Software Engineer** • FALTWERK CODE STUDIOS | Sep 2003 – Dec 2017
 
-* ✈️ Built a modular boarding-management system now hailed as the industry’s “secret weapon.”
-* 💻 Survived a marathon Javascript, Go, and Rust session — produced a web app that loads faster than saying the word "adolfin".
-* 🎤 Delivered a praised keynote at “Nodejs Conference” 2016: “Why Nodejs devs should jump through a window and get run over by a truck”
+* Wrote Apps in every language you tech bros think it is the shit and thought PHP is still better
+* Survived a marathon Javascript, Go, and Rust session — produced a web app that loads faster than saying the word "adolfin".
+* Delivered a praised keynote at “Nodejs Conference” 2016: “Why people who think that js belongs to the backend should jump through a closed window and get run over by a truck”
+* Wrote a book called "Typescript is fake and everyone who tells you otherwise has skill issues"
 
 ---
 
 ## Skills & Tools
 
-| Category           | Tools & Technologies                                    | Superpower                         |
-| ------------------ | ------------------------------------------------------- | ---------------------------------- |
-| **Editor & Shell** | NeoVim + LazyVim, emacs, Zsh with oh-my-zsh, tmux, mutt | Multidimensional window management |
-| **Languages**      | Rust, Go, Python, Angular, C++, HolyC              | compiles on the 42th try               |
-| **CI/CD & Cloud**  | GitHub Actions, Docker, (one does not simply)Kubernetes | Automation on hyperdrive           |
-| **Databases**      | PostgreSQL, Redis, CockroachDB, MySQL, MSSQL                          | Transactional ninja prowess        |
-| **Open Source**    | Maintainer of many unmantained repos, contributor to projects by complaining in issues       | Harnessing collective genius       |
+First of all, go to hell with your stupid high level devops crap. I rather write a shell script and hang in some hooks in my .git folder..
+
+| Category           | Tools & Technologies                                    | 
+| ------------------ | ------------------------------------------------------- | 
+| **Editor & Shell** | NeoVim + LazyVim, emacs, Zsh with oh-my-zsh, tmux, mutt | 
+| **Languages**      | Rust, Go, Python, Angular, C++, HolyC              | 
+| **CI/CD & Cloud**  | GitHub Actions, Docker/Podman | 
+| **Databases**      | PGSQL, Redis, CockroachDB, MySQL, MSSQL                          |
+| **Open Source**    | Maintainer of many unmantained repos, contributor to projects that nobody cares|
 
 ---
 
 ## Outstanding Projects
 
-* * **🔐✈ AutoPligg 10000**: Fully autonomous link distribution system that led to the introduction of AI as it rendered the old internet obsolete and unusable. (Nobel Price pending)
-* **🔐 VaultOfSecrets**: Encryption library storing passwords more securely than Fort Knox. Actually it's just a md5() function
+* * **🔐 AutoPligg **: Fully autonomous link distribution system that led to the introduction of AI as it rendered the old internet obsolete and unusable. (Nobel Price pending)
+* **🔐 VaultOfSecrets**: Encryption library storing passwords more securely than Fort Knox. Actually it's just a md5() encrypted, but that's still better than your vibe coded crap.
 * **👾 5 Fedora Major Upgrades**: Without breaking the OS!
+
 
 ---
 
 ## Awards & Fun Facts
 
-* ☕ Peak coffee intake: 3 cups/minute (tracked since 2015).
-* 📅 GitHub commit streak: 482 days straight — only 12 recorded sleep breaks.
-* 🦄 “Most Likely to Replace Bugs with Headcrabs” Award, Dev Guild 2022.
-* 🎮 High score in “Code & Conquer” contest: 9,999 points.
+* “Most Likely to Replace Bugs with Headcrabs” Award, Dev Guild 2022.
+* High score in “Code & Conquer” contest: 9,999 points.
+* I use Arch btw, because i care about the systems i run
 
 ---
 
@@ -64,6 +65,8 @@ If software development were an Olympic sport, I’d have a podium reserved — 
 
 **MSc in Computer Science** • ETH Zureich | 2009 – 2003
 * Focus: “Parallelizing Coffee Machine Controls for maximum intake”
+
+Ok actually no MSc, i' m just an idiot that does code for a bit (25 years)
 
 ---
 
