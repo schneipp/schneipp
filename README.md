@@ -79,4 +79,4 @@ Ok actually no MSc, i' m just an idiot that does code for a bit (25 years)
 > *“Code — because hitting people with a keyboard is fucking awesome.”* 💥
 
 
-this resume might by slightly exaggerated btw.
+disclaimer: if you are a recruiter and wonder if this  is all true, ask a a SE to make sense of all this. if he/*/she understands, contact me :)
