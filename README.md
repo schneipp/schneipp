@@ -2,19 +2,21 @@
 ## About Me
 
 Hello, I’m **Rams aka “Code Wizard”**, the undisputed master of bits and bytes at **JULITH**. 
-If software development were an Olympic sport, I’d have a podium reserved — and I’d still find time to build three airport systems before breakfast. My trusty sidekicks: a golden-edition Kinesis keyboard and NeoVim enhanced with my custom plugin, because everything else would be a skill issue. As a proud “socially integrated nerd,” I seamlessly juggle epic coding challenges wherever someone is in despair. 
+If software development were an Olympic sport, I’d have a podium reserved. 
+My sidekicks: a Kinesis keyboard, NeoVim enhanced with my custom plugin, because everything else would be a skill issue. The only tool a man needs is the command line.
+As a proud “socially integrated nerd,” I seamlessly juggle epic coding challenges wherever someone is in despair. 
 
 ---
 
 ## Experience
 
 **Head of Headdevelopment** • JULITH GmbH | May 2024 - present
-* Rolled out an AI-powered virtual Airport system for Virtual Customers of over 699 imaginary countries
-* Wrote several actor based hyper scalable Webapps with Rust that were used by 4 users AT THE SAME TIME!
+* Wrote production code in haskell.
+* Wrote several actor based hyper scalable Webapps with Rust that were used by 4 users AT THE SAME TIME (trust me bro)!
 
 **Head of Development** • NEWS-LOG AG | Jan 2018 – 2024
 
-* Refueled, launched, and landed software services across many airports.
+* Refueled, launched, and (sometimes crash)  landed software services across many airports.
 * Wrote several Devops Pipelines by just starring at the screen.
 
 **Senior Software Engineer** • FALTWERK CODE STUDIOS | Sep 2003 – Dec 2017
