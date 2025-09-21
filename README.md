@@ -29,11 +29,11 @@ As a proud “socially integrated nerd,” I seamlessly juggle epic coding chall
 
 ## Skills & Tools
 
-First of all, go to hell with your stupid high level devops crap. I rather write a shell script and deploy in 30 seconds by by hanging in some hooks in my .git folder..
+First of all, go to hell with your stupid high level devops crap. I rather write a shell script and deploy in 30 seconds by hanging in some hooks in my .git folder..
 
 | Category           | Tools & Technologies                                    | 
 | ------------------ | ------------------------------------------------------- | 
-| **Editor & Shell** | NeoVim + LazyVim, emacs, Zsh with oh-my-zsh, tmux, mutt | 
+| **Editor & Shell** | NeoVim, emacs, Zsh with oh-my-zsh, tmux, mutt. If i am in a bad mood and need to ship stuff => JETBRAINS | 
 | **Languages**      | Rust, Go, Python, Angular, C++, HolyC              | 
 | **CI/CD & Cloud**  | GitHub Actions, Docker/Podman | 
 | **Databases**      | PGSQL, Redis, CockroachDB, MySQL, MSSQL                          |
