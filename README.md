@@ -22,15 +22,14 @@ As a proud “socially integrated nerd,” I seamlessly juggle epic coding chall
 **Senior Software Engineer** • FALTWERK CODE STUDIOS | Sep 2003 – Dec 2017
 
 * Wrote Apps in every language you tech bros think it is the shit and thought PHP is still better
-* Survived a marathon Javascript, Go, and Rust session — produced a web app that loads faster than saying the word "adolfin".
-* Delivered a praised keynote at “Nodejs Conference” 2016: “Why people who think that js belongs to the backend should jump through a closed window and get run over by a truck”
-* Wrote a book called "Typescript is fake and everyone who tells you otherwise has skill issues"
+* Survived a marathon Javascript, Go, and Rust session — produced a web app that loads faster than you write your next bug.
+* Wrote a book called "Computers - F**k everything, everyone, everywhere at once."
 
 ---
 
 ## Skills & Tools
 
-First of all, go to hell with your stupid high level devops crap. I rather write a shell script and hang in some hooks in my .git folder..
+First of all, go to hell with your stupid high level devops crap. I rather write a shell script and deploy in 30 seconds by by hanging in some hooks in my .git folder..
 
 | Category           | Tools & Technologies                                    | 
 | ------------------ | ------------------------------------------------------- | 
